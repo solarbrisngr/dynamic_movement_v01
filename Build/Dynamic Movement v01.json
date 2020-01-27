@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "Dynamic Movement v01.data.unityweb",
+"asmCodeUrl": "Dynamic Movement v01.asm.code.unityweb",
+"asmMemoryUrl": "Dynamic Movement v01.asm.memory.unityweb",
+"asmFrameworkUrl": "Dynamic Movement v01.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
